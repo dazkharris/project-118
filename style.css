@@ -1,0 +1,12 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    color: blue(38, 0, 255);
+    background-color: honeydew;
+}
+
+#show_sketch {
+    float: right;
+}
